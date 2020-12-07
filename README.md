@@ -29,9 +29,13 @@ Karachi_LS_Tweeters
 
 karachi_ls.csv
 
-Both of which can be found in the [repository's project folder](https://github.com/deshanahan/All-Aboard-the-Karachi-Load-Shedding-Blame-Train/tree/main/Project)
+Both of which can be found in the [repository's Project folder](https://github.com/deshanahan/All-Aboard-the-Karachi-Load-Shedding-Blame-Train/tree/main/Project)
 
-Report: A detailed technical notebook containing an overview of the code may be found on the [repository's home page](https://github.com/deshanahan/Karachi-Load-Shedding-Blame-Train).
+Additionally, a new csv file containing the integrated DataFrame may be downloaded from the Get Data.ipynb file in the [repository's Project folder](https://github.com/deshanahan/All-Aboard-the-Karachi-Load-Shedding-Blame-Train/tree/main/Project).
+
+The [repository's Project folder](https://github.com/deshanahan/All-Aboard-the-Karachi-Load-Shedding-Blame-Train/tree/main/Project) also contains the .ipynb and .py files for the data (KLS_Data) and EDA (KLS_EDA), as well as the .ipynb files for the models (LogReg_Model, TreeClass_Model, and RandomForest_Model) and the .py file for the train_test_split used by all of the models (KLS_Train_Test_Split).
+
+Report: A detailed technical notebook containing an overview of the code may be found on the [repository's home page](https://github.com/deshanahan/All-Aboard-the-Karachi-Load-Shedding-Blame-Train).
 
 # Software Requirements
 
